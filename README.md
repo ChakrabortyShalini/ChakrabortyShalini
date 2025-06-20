@@ -1,9 +1,7 @@
-
-
-<!-<h1 align="center">Hi there, I'm Shalini 👋</h1>
+<h1 align="center">Hi there, I'm Shalini 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Frontend+Web+Developer;Passionate+about+UI+%26+Web+Design;Loves+CSS+%7C+JS+%7C+Wattpad+Writing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Frontend+Web+Developer;Passionate+about+UI+%26+Web+Design;Loves+CSS+%7C+JS+%7C+Creative+Coding" alt="Typing SVG" />
 </p>
 
 ---
@@ -26,13 +24,13 @@
 
 ---
 
+
 ### 📫 Connect with Me
 <p>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  
 </p>
 
 ---
 
-_✨ “Turning code into creativity.” ✨_
+_✨ “Turning pixels into clean, functional experiences.” ✨_
