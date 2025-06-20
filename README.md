@@ -10,9 +10,8 @@
 
 ### 🧑‍💻 About Me
 - 🔭 Currently building beautiful frontend experiences
-- 🌱 Learning React, TailwindCSS, and responsive design
-- 📖 Writing stories and translating Bengali tales in my spare time
-- 💬 Ask me about **HTML**, **CSS**, **JavaScript**, or writing!
+- 🌱 Learning responsive design
+- 💬 Ask me about **HTML**, **CSS**, **JavaScript**
 - 💡 Open to collaborate on UI/UX-focused projects
 - 🎯 Goal: Join a creative Web Development startup
 
@@ -27,15 +26,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
-</p>
-
----
-
 ### 📫 Connect with Me
 <p>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -45,18 +35,4 @@
 
 ---
 
-_✨ “Turning pixels into poetry and code into creativity.” ✨_
--
-**ChakrabortyShalini/ChakrabortyShalini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_✨ “Turning code into creativity.” ✨_
