@@ -6,7 +6,7 @@
 
 ---
 
-### 👧👩‍💻 About Me
+### 👩‍💻 About Me
 - 🔭 Currently building beautiful frontend experiences
 - 🌱 Learning responsive design
 - 💬 Ask me about **HTML**, **CSS**, **JavaScript**
