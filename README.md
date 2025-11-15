@@ -9,9 +9,8 @@
 ### 👩‍💻 About Me
 - 🔭 Currently building beautiful frontend experiences
 - 🌱 Learning responsive design
-- 💬 Ask me about **HTML**, **CSS**, **JavaScript**
-- 💡 Open to collaborate on UI/UX-focused projects
-- 🎯 Goal: Join a creative Web Development startup
+
+
 
 ---
 
